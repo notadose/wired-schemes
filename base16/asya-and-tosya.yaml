@@ -1,4 +1,4 @@
-scheme: tosya
+scheme: asya and tosya
 author: notadose
 
 base00: "2a2624"
@@ -6,15 +6,16 @@ base01: "34110b"
 base02: "6e4f4d"
 base03: "d96e6e"
 base04: "887c64"
-base05: "6e4f4d"
+base05: "958b85"
 base06: "d6c4bd"
 base07: "958b85"
 
-base08: "6d3f3f"
+base08: "c8554b"
 base09: "fdfef0"
-base0A: "90464a"
-base0B: "d1663a"
+base0A: "d1663a"
+base0B: "ff8a86"
 base0C: "d56b53"
 base0D: "ffdec6"
 base0E: "d0af4d"
 base0F: "d6cebe"
+# 90464a
